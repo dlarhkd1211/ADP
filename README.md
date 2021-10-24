@@ -4,4 +4,4 @@
 virtual env
 
 conda install pytorch torchvision torchaudio cudatoolkit=11.0 -c pytorch
-pip instal -r requirements.txt
+pip install -r requirements.txt
